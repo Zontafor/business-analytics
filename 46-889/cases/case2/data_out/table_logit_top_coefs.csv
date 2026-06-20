@@ -1,0 +1,16 @@
+feature,coef
+dti,0.015
+acc_open_past_24mths,0.009
+mo_sin_rcnt_tl,-0.009
+mo_sin_rcnt_rev_tl_op,-0.008
+num_tl_op_past_12m,0.005
+num_op_rev_tl,0.004
+num_actv_rev_tl,0.004
+percent_bc_gt_75,0.004
+num_rev_tl_bal_gt_0,0.004
+open_acc,0.003
+num_sats,0.003
+num_rev_accts,0.003
+bc_util,-0.003
+num_bc_tl,0.002
+num_bc_sats,0.002
