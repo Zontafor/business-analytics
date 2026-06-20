@@ -1,6 +1,6 @@
-# 46-889 Directory (`business-analytics/46-889/`)
+# 46-889 Directory (`integrative-business-analytics/46-889/`)
 
-This branch contains my own independently written algorithms, case studies, code files, homework solutions, lecture notes, mathematical proofs, and project reports for courses I have taken at Carnegie Mellon University.
+This directory contains my own independently written algorithms, case studies, code files, homework solutions, lecture notes, mathematical proofs, and project reports for courses I have taken at Carnegie Mellon University.
 
 All material in this branch is included solely for personal record-keeping, professional portfolio documentation, and reproducibility of my own work.
 
